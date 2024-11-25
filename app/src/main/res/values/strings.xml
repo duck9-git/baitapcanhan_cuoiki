@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">baitapcanhan_cuoiki</string>
+    <string name="home">home</string>
+    <string name="mess">mess</string>
+    <string name="book">book</string>
+    <string name="activity">activity</string>
+    <string name="profile">profile</string>
+</resources>
